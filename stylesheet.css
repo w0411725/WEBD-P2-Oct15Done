@@ -10,14 +10,12 @@
     top: 0;
     left: 0;
     z-index: 9998;
-    border:2px solid yellow;
     display: inline-flex;
     padding: .5rem;
 }
 .topBtn{
     text-align: center;
     width: 20%;
-    border:2px solid yellow;
     font-size: 150%;
     background-color: aliceblue;
     margin-top: .25rem;
@@ -30,7 +28,6 @@
 .title{
     font-size: 150%;
     text-align: center;
-    border:2px solid purple;
     min-width: 60%;
     max-width: 90%;
     padding: 5%;
@@ -39,13 +36,11 @@
     margin-top: 12%;
     margin-bottom: 12%;
     height: 30%;
-    border:2px solid purple;
     min-width: 30%;
     position: relative;  
 }
 
 body{
-    border:2px solid orange;
     margin-bottom: 6%;
     margin-top: 6%;
 }
@@ -56,19 +51,16 @@ body{
     padding: .5em;
     position: relative;
     min-height: 20rem;  
-    border:2px solid green;
     background-color: lightgrey
 }
 .contentWrap{
     display: flex;
-    border:2px solid purple;
     max-width: auto; 
     margin-right: 0em;
     background-color: white;
 }
 .contentWrap2{
     display: flex;
-    border:2px solid purple;
     max-width: auto; 
     margin-right: 0em;
     background-color: lightgrey
@@ -83,7 +75,6 @@ footer{
     color: #f1f1f1;
     background-color: darkblue;
     text-align: center;
-    border:2px solid green;
     background-image: url(./assets/images/6Jl3Hjb.jpg);
     background-repeat: no-repeat;
     background-position: center;
