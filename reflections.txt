@@ -1,0 +1,4 @@
+Between the wireframe design and the first draft of the mobile design, I ended up removing the two floating buttons meant to jump to specific parts of the page. 
+I made this change because as I was coding the top navigation bar I noticed it would be kind of redundant to have buttons redirecting the user to a part of the page that would just redirect them to another place that they actually want to go. 
+That being the case I changed the top bar to follow the user as they scroll down, so that they have quick access to those jumps from wherever they want without obstructing the page view and adding unnecessary clicks between steps. 
+This exercise has taught me to be more mindful of the overall efficiency when drafting my initial design.
